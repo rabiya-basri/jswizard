@@ -1,8 +1,8 @@
-# jswizard
+# JSWIZARD
 
  **JSWIZARD** is CLI Quiz app to test knowledge in javascript that is replication of 1st lecture from tanaypratap's neog camp.
 
-**jswizard** build using nodejs , this app used two libraries:
+**JSWIZARD** build using nodejs , this app used two libraries:
 - readlinesync: to take input from user to make app interactive.
 - chalk: to make app attractive by using different colors.
 
